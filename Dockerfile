@@ -1,4 +1,4 @@
-FROM python:3.8-alpine
+FROM python:3.12.3-alpine
 
 LABEL maintainer="Evyatar Meged <evyatarmeged@gmail.com>"
 LABEL dockerfile-creator="Mostafa Hussein <mostafa.hussein91@gmail.com>"
